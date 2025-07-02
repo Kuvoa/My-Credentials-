@@ -124,4 +124,4 @@ This repository documents the full learning path I completed at **Turing College
 **Khristian Novoa**  
 📍 Chicago, IL  
 📧 khristiannovoa@gmail.com  
-🔗 [LinkedIn](#) | [GitHub](#)
+
